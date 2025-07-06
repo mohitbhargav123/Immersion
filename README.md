@@ -15,3 +15,7 @@ If you are developing a production application, we recommend using TypeScript wi
 add file
 
 addFolder
+add Home_file
+
+add login 
+add Signup
